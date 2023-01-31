@@ -13,7 +13,6 @@ function App() {
           strings={[
             "I'm a Full Stack Developer",
             "I Love Software Development",
-            "I Love All My Subscribers",
           ]}
           typeSpeed={150}
           backSpeed={100}
